@@ -1,0 +1,36 @@
+{
+	"id": -1,
+	"name": "W.I.T.C.H.",
+	"description": "W.I.T.C.H. is an Italian fantasy Disney comics series featuring a group of five teenage girls who become the guardians of the classical elements of energy, water, fire, earth, and air, and protectors of the mythical Kandrakar, the center of the universe. The comics ran from 2001 to 2012 and also spawned an animated TV series running from 2004 to 2006. \n\nThe comics are currently being repressed by Yen Press since 2017 and an upcoming reboot is scheduled to be released in October 2023. ",
+	"links": {
+		"subreddit": [
+			"GuardiansOftheVeil"
+		]
+	},
+	"path": {
+		"250": [
+			[
+				1243,
+				-789
+			],
+			[
+				1263,
+				-789
+			],
+			[
+				1263,
+				-787
+			],
+			[
+				1243,
+				-787
+			]
+		]
+	},
+	"center": {
+		"250": [
+			1253,
+			-788
+		]
+	}
+}
